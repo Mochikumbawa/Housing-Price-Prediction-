@@ -1,6 +1,6 @@
 # 🏠 Housing Price Prediction
 
-A Python project that predicts property prices from listing features, with predictions generated for properties with contract dates from **January to March 2023**.
+A Python project for DataMeka Housing that predicts property prices from listing features, with predictions generated for properties with contract dates from **January to March 2023**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
